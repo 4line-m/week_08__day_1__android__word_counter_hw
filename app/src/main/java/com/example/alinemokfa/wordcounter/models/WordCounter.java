@@ -5,4 +5,10 @@ package com.example.alinemokfa.wordcounter.models;
  */
 
 public class WordCounter {
+
+
+    public static int wordCount(String inputText) {
+        String[] words = inputText.split(" ");
+        return words.length;
+    }
 }
