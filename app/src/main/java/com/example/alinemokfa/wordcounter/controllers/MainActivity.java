@@ -1,7 +1,9 @@
-package com.example.alinemokfa.wordcounter;
+package com.example.alinemokfa.wordcounter.controllers;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.alinemokfa.wordcounter.R;
 
 public class MainActivity extends AppCompatActivity {
 
